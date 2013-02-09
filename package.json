@@ -1,0 +1,19 @@
+{
+  "name": "flv",
+  "version": "0.0.0",
+  "description": "FLV media container file format encoder and decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Rajlich <nathan@tootallnate.net>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/node-flv.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "~0.7.0",
+    "stream-parser": "~0.0.2"
+  }
+}
