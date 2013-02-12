@@ -4,7 +4,7 @@
   "description": "FLV media container file format encoder and decoder",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "author": "Nathan Rajlich <nathan@tootallnate.net>",
   "repository": {
@@ -15,5 +15,8 @@
   "dependencies": {
     "debug": "~0.7.0",
     "stream-parser": "~0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*"
   }
 }
