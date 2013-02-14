@@ -13,6 +13,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "amf": "0",
     "debug": "~0.7.0",
     "stream-parser": "~0.0.2"
   },
