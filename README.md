@@ -1,7 +1,7 @@
 node-flv
 ========
 ### FLV media container file format encoder and decoder
-[![Build Status](https://secure.travis-ci.org/TooTallNate/node-flv.png)](http://travis-ci.org/TooTallNate/node-flv)
+[![Build Status](https://travis-ci.org/TooTallNate/node-flv.png?branch=master)](https://travis-ci.org/TooTallNate/node-flv)
 
 This module offers `Encoder` and `Decoder` stream classes for working with FLV
 media files.
