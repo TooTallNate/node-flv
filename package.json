@@ -14,9 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "amf": "0",
-    "debug": "~0.7.0",
+    "debug": "0",
     "readable-stream": "0",
-    "stream-parser": "~0.0.2"
+    "stream-parser": "0"
   },
   "devDependencies": {
     "mocha": "*"
