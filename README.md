@@ -44,7 +44,7 @@ decoder.on('audio', function (audio) {
 decoder.on('video', function (video) {
   // "video" is a Readable stream of video data
   // the type of video data depends on the FLV file, could be H.263, On2 VP6, etc.
-  audio.pipe(fs.createWriteStream('output.h263'));
+  video.pipe(fs.createWriteStream('output.h263'));
 });
 
 // pipe the FLV file to the Decoder instance
