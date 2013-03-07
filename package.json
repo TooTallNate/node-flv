@@ -1,6 +1,6 @@
 {
   "name": "flv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "FLV media container file format encoder and decoder",
   "main": "index.js",
   "scripts": {
